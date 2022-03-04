@@ -7,7 +7,7 @@
 
 - 👨‍💻 I also create Api's using [Django]() and [.NET ENTITY FRAMEWORK]().
 
-- 📝 Favourite Languages **C# and Dart**
+- 📝 Favourite Languages **C# Dart & Javascript **
 
 - 💬 Ask me about **Flutter and Blockchain**
 
