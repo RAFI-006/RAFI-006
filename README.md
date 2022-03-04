@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain, NFT , Cryptography**
 
-- 👨‍💻 I also create Api's using [Django]() and [.NET ENTITY FRAMEWORK]().
+- 👨‍💻 I also create Api's using [Django](https://www.djangoproject.com/) and [.NET ENTITY FRAMEWORK](https://www.c-sharpcorner.com/article/entity-framework-introduction-using-c-sharp-part-one/).
 
 - 📝 Favourite Languages **C# Dart & Javascript **
 
