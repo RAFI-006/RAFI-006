@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Rafi Uddin</h1>
-<h3 align="center">Flutter Developer | Blockchain Developer </h3>
+<h3 align="center">Flutter Developer more than 4 years </h3>
 
 - 🔭 I’m currently working on heathcare apps like [Practo](https://www.practo.com/)
-
-- 🌱 I’m currently learning **Blockchain, NFT , Cryptography**
 
 - 👨‍💻 I also create Api's using [Django](https://www.djangoproject.com/) and [.NET ENTITY FRAMEWORK](https://www.c-sharpcorner.com/article/entity-framework-introduction-using-c-sharp-part-one/).
 
 - 📝 Favourite Languages **C# Dart & Javascript **
 
-- 💬 Ask me about **Flutter and Blockchain**
+- 💬 Ask me about **Flutter and Flutter and yes Flutter only**
 
 - 📫 How to reach me **rafiuddin924@gmail.com**
 
