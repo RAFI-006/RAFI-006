@@ -5,7 +5,7 @@
 
 - 👨‍💻 I also create Api's using [Django](https://www.djangoproject.com/) and [.NET ENTITY FRAMEWORK](https://www.c-sharpcorner.com/article/entity-framework-introduction-using-c-sharp-part-one/).
 
-- 📝 Favourite Languages **C# Dart & Javascript **
+- 📝 Favourite Languages **C# Dart & Javascript**
 
 - 💬 Ask me about **Flutter and Flutter and yes Flutter only**
 
