@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Rafi Uddin</h1>
 <h3 align="center">Flutter Developer since 4 years </h3>
 
-- 🔭 I’m currently working at fintact startup [StackInvest](https://stackinvest.in/)
+- 🔭 I’m currently working at fintech startup [StackInvest](https://stackinvest.in/)
 
 - 👨‍💻 I also create Api's using [Django](https://www.djangoproject.com/) and [.NET ENTITY FRAMEWORK](https://www.c-sharpcorner.com/article/entity-framework-introduction-using-c-sharp-part-one/).
 
