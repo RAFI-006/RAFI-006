@@ -1,6 +1,6 @@
 # Hi, I'm Rafi 👋
 
-**Flutter Developer | Fintech Specialist | Problem Solver|Open for Flutter roles**
+**Flutter Developer | Fintech Specialist | Problem Solver | Open for Flutter roles**
 
 I’m a mobile developer with 6+ years of experience, passionate about building clean, scalable apps that solve real problems. I specialize in Flutter (5+ years), with a strong focus on fintech and healthtech domains.
 
