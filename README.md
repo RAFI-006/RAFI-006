@@ -3,7 +3,7 @@
 
 - 🔭 My last company was Loginsoft where I was working with Us client called BMTX , a bankmobile App
 
-- 👨‍💻 I also create Api's using [Django](https://www.djangoproject.com/) and [.NET ENTITY FRAMEWORK](https://www.c-sharpcorner.com/article/entity-framework-introduction-using-c-sharp-part-one/).
+- 👨‍💻 I also create Api's using [.NET ENTITY FRAMEWORK](https://www.c-sharpcorner.com/article/entity-framework-introduction-using-c-sharp-part-one/).
 
 - 📝 Favourite Languages **C# Dart**
 
