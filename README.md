@@ -1,6 +1,6 @@
 # Hi, I'm Rafi 👋
 
-**Flutter Developer | Fintech Specialist | Problem Solver**
+**Flutter Developer | Fintech Specialist | Problem Solver|Open for Flutter roles**
 
 I’m a mobile developer with 6+ years of experience, passionate about building clean, scalable apps that solve real problems. I specialize in Flutter (5+ years), with a strong focus on fintech and healthtech domains.
 
@@ -47,6 +47,7 @@ I’m a mobile developer with 6+ years of experience, passionate about building 
 - 📍 Vizag, India  
 - 📧 rafiuddin0912@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdrafiuddin924/)
+- +91 9871699840
 
 ---
 
